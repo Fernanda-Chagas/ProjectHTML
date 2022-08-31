@@ -1,0 +1,44 @@
+/*Estilos da página index.html*/
+
+.center {
+    text-align: center;
+    }
+    .container {
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+    }
+    #menu li{
+        display: inline;
+        padding: 20px;
+    }
+    #menu li a {
+        text-decoration: none;
+        color: pink;
+    }
+    #menu li a:hover{
+        color: aquamarine;
+    }
+
+    .tm-social{
+        width: 30px;
+        height: 30px;
+        display: inline;
+        padding: 5px;
+    }
+    
+/*Estilos da página contato.html*/
+
+
+#menu li{
+    display: inline;
+    padding: 20px;
+}
+#menu li a {
+    text-decoration: none;
+    color: pink;
+}
+#menu li a:hover{
+    color: aquamarine;
+}
